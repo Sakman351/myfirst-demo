@@ -1,5 +1,4 @@
-# myfirst-demo
-This is my First Git repositry
-<br>
-Aurther - Salman Tariq
-CEO
+clear
+ls -ltr
+clear
+>
